@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Site Management Project [SiteManagement](https://github.com/mtsmsek/SiteManagement)
 
-- 🌱 I’m currently learning [<img align="center" src='https://design.duolingo.com/86230c9ad10d9f08b785.svg' alt='duolingo' height='40'>](https://www.duolingo.com/profile/simsekmehmet)  
+- 🌱 I’m currently learning Spanish [<img align="center" src='https://design.duolingo.com/86230c9ad10d9f08b785.svg' alt='duolingo' height='40'>](https://www.duolingo.com/profile/simsekmehmet)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
